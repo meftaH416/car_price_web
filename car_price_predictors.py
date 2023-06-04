@@ -8,8 +8,6 @@ Created on Sat Jun  3 16:31:27 2023
 
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 import xgboost as xgb
 import datetime
 import streamlit as st
